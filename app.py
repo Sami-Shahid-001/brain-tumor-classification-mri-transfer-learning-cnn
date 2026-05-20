@@ -8,7 +8,7 @@ import os
 
 # ─── Page Config ─────────────────────────────────────────────────────────────
 st.set_page_config(
-    page_title="Brain Tumor Classifier",
+    page_title="Brain Tumor Classifier - Tranfer Learning",
     page_icon="🧠",
     layout="centered",
 )
